@@ -64,10 +64,6 @@ src/
 ### Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/color-task-app.git
-cd color-task-app
-```
 
 2. Install dependencies:
 ```bash
@@ -139,15 +135,3 @@ This is a technical assessment project, but suggestions and feedback are welcome
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- Technical assessment provided by [Company Name]
-- Built with [Expo](https://expo.dev/)
-- UI/UX inspiration from Material Design
